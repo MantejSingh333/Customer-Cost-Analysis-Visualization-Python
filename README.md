@@ -1,9 +1,7 @@
 # Customer Cost Analysis & Visualization (Python)
 
-Python-based project analyzing cost, revenue, and labor trends for a customer product over time, with clear visualizations to support decision-making.
-
 ## Overview
-Cleaned and processed customer product data in **Google Colab**, then created multiple time-series visualizations to understand how costs, invoiced values, and labor metrics evolve year over year.
+Cleaned and processed customer product data in Python, then analyzed and visualized cost, revenue, and labor trends over time using Pandas, Matplotlib, and Seaborn to uncover year-over-year patterns.
 
 ## Workflow & Tools
 - Filtered and cleaned data using **Pandas**  
